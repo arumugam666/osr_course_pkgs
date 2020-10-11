@@ -40,3 +40,6 @@
 doc
 
 .idea
+
+# jupyter notebook checkpoints
+*.ipynb_checkpoints
